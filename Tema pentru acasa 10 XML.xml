@@ -1,0 +1,62 @@
+<Lista>
+	<persoana1>
+		<id>001</id>
+		<nume>Alexandru Alexandrescu</nume>
+		<oras>IS</oras>
+		<adresa>
+			<stada>Stada Bujorului</stada>
+			<casa>1</casa>
+			<ap>1</ap>
+		</adresa>
+		<contact>
+			<telefon>0723.333.333</telefon>
+			<email>alex.alexandrescu@gmail.com</email>
+			<skype>alex24</skype>
+		</contact>
+	</persoana1>
+	<persoana2>
+		<id>002</id>
+		<nume>Bogdan Bogdanescu</nume>
+		<oras>AR</oras>
+		<adresa>
+			<stada>Stada Gladiolei</stada>
+			<casa>2</casa>
+			<ap>2</ap>
+		</adresa>
+		<contact>
+			<telefon>0724.444.444</telefon>
+			<email>bogdan36@yahoo.com</email>
+			<skype>bogdan36</skype>
+		</contact>
+	</persoana2>
+	<persoana3>
+		<id>003</id>
+		<nume>Calin Calinescu</nume>
+		<oras>CT</oras>
+		<adresa>
+			<stada>Stada Cinului</stada>
+			<casa>3</casa>
+			<ap>3</ap>
+		</adresa>
+		<contact>
+			<telefon>0725.555.555</telefon>
+			<email>calin_kaline@hotmail.com</email>
+			<skype>calin_kaline</skype>
+		</contact>
+	</persoana3>
+	<persoana4>
+		<id>004</id>
+		<nume>Dumitru Dumitrescu</nume>
+		<oras>TM</oras>
+		<adresa>
+			<stada>Stada Magnoliei</stada>
+			<casa>4</casa>
+			<ap>4</ap>
+		</adresa>
+		<contact>
+			<telefon>0726.666.666</telefon>
+			<email>dumi_dume@zoho.com</email>
+			<skype>dumi.dume</skype>
+		</contact>
+	</persoana4>
+</Lista>

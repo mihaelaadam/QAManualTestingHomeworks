@@ -1,0 +1,64 @@
+{
+  "Lista": {
+    "persoana1": {
+      "id": "001",
+      "nume": "Alexandru Alexandrescu",
+      "oras": "IS",
+      "adresa": {
+        "stada": "Stada Bujorului",
+        "casa": 1,
+        "ap": 1
+      },
+      "contact": {
+        "telefon": "0723.333.333",
+        "email": "alex.alexandrescu@gmail.com",
+        "skype": "alex24"
+      }
+    },
+    "persoana2": {
+      "id": "002",
+      "nume": "Bogdan Bogdanescu",
+      "oras": "AR",
+      "adresa": {
+        "stada": "Stada Gladiolei",
+        "casa": 2,
+        "ap": 2
+      },
+      "contact": {
+        "telefon": "0724.444.444",
+        "email": "bogdan36@yahoo.com",
+        "skype": "bogdan36"
+      }
+    },
+    "persoana3": {
+      "id": "003",
+      "nume": "Calin Calinescu",
+      "oras": "CT",
+      "adresa": {
+        "stada": "Stada Cinului",
+        "casa": 3,
+        "ap": 3
+      },
+      "contact": {
+        "telefon": "0725.555.555",
+        "email": "calin_kaline@hotmail.com",
+        "skype": "calin_kaline"
+      }
+    },
+    "persoana4": {
+      "id": "004",
+      "nume": "Dumitru Dumitrescu",
+      "oras": "TM",
+      "adresa": {
+        "stada": "Stada Magnoliei",
+        "casa": 4,
+        "ap": 4
+      },
+      "contact": {
+        "telefon": "0726.666.666",
+        "email": "dumi_dume@zoho.com",
+        "skype": "dumi.dume"
+      }
+    }
+  }
+}
